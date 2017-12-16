@@ -1,1 +1,1 @@
-# Codecademy-Projects-JavaScript
+# JS Sample-Projects-JavaScript
