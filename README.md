@@ -1,1 +1,1 @@
-# JS Sample-Projects-JavaScript
+# JS Sample-Projects
